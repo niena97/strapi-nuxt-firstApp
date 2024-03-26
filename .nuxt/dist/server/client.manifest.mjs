@@ -1,0 +1,1 @@
+export { default } from "file:///Users/nina/Documents/GitHub/strapi-nuxt-firstApp/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
